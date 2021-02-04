@@ -29,3 +29,11 @@ My college name is **I don't know** *waste college*
 
 # links
 nagurinchi nikenduku kavalante [google](https://www.google.com)
+
+# Table
+
+s.no|name|marks
+-----|----|-----
+1|abc|90
+2|bbc|99
+3|cbc|100
